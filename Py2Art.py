@@ -1,4 +1,4 @@
-# Please read the license before using this software
+# Please read the license and readme before using this software
 
 from turtle import *
 from random import randint
