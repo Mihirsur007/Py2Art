@@ -53,10 +53,9 @@ python3 Py2App.py
 
 ## Authors
 
-Contributors names and contact info
-
 Mihir Surlaker
 
+You can contact me by leaving a comment on this repo.
 
 ## Version History
 
