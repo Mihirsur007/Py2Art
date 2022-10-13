@@ -11,7 +11,7 @@ x = ["red", 'orange', 'yellow', 'spring green', 'cyan', 'dark orchid', 'hot pink
 def setup():
     turtle.showturtle()
     ws = turtle.Screen()
-    turtle.speed(0)
+    turtle.speed(1000)
     ws.bgcolor("black")
 
 def makeSquare():
