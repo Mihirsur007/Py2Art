@@ -99,15 +99,15 @@ def makeart():
         makeSquare()
 
 ################################
-#Create an instance of window
+
 win = Tk()
 win.configure(bg="black")
 win.title("Py2Art")
 
-#Set the geometry of the window
+
 win.geometry("700x400")
 
-#Define a function to close the window
+
 def close_win():
    win.destroy()
 
@@ -120,7 +120,7 @@ def clicked():
     turtle.done()
 
 
-#Create a label
+
 Label(win, text="Py2Art",
 font=('Poppins bold', 35), bg="black", fg='Cyan').pack(pady= 20)
 Label(win, text="A Python Art Generator",
