@@ -24,8 +24,6 @@ Libraries:
 - turtle
 - tkinter
 - tkmacosx (for mac users)
-Optional Library
-- Py2App (This can be used to turn the python script into a .app file for Macs)
 
 All of these can be downloaded using
 ```
