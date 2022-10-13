@@ -56,7 +56,7 @@ python3 Py2App.py
 
 Mihir Surlaker
 
-You can contact me by leaving a comment on this repo.
+You can contact me on the issues tab of this repository.
 
 ## Version History
 
@@ -68,4 +68,4 @@ This project is licensed under the Apache License - see the LICENSE.md file for 
 ## Acknowledgments
 
 Inspiration, code snippets, etc.
-* [GeeksforGeeks.org](https://www.geeksforgeeks.org)
+- [GeeksforGeeks.org](https://www.geeksforgeeks.org)
