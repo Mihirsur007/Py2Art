@@ -45,7 +45,7 @@ python3 Py2App.py
 ```
 ## Help
 
-- If the program does not start, try using the VSCode or PyCharm and pressing the play button in the top right corner. 
+- If the program does not start, try using VSCode or PyCharm and pressing the play button in the top right corner. 
 
 - Make sure that all dependencies have been satisfied.
 
