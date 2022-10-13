@@ -5,6 +5,7 @@ A python random art generator
 ## Description
 
 This python software is used to create a random 8x8 art piece using turtle and tkinter. The software chooses the color of each pixel randomly from a set library of colors that can be changed to your preference. It then generates the 64 total pixels to form your unique peice of art. The GUI has a simple and easy to use design to help you start creating as fast as possible. 
+
  <img src="https://i.imgur.com/UD1BKJh.png " alt="IMAGE TEXT" width="400"/>
  
  
