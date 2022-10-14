@@ -19,7 +19,7 @@ This software is not for commercial or academic use.
 
 Uses Python 3.8
 
-Libraries: 
+Packages: 
 - random
 - turtle
 - tkinter
@@ -31,7 +31,7 @@ pip install
 ```
 ### Installing
 
-Download the python file off of this repository and make sure that it is in the same directory that you use for your IDE (VSCode, PyCharm, etc.). Install all of the libraries used to run this script. 
+Download the python file off of this repository and make sure that it is in the same directory that you use for your IDE (VSCode, PyCharm, etc.). Install all of the packages used to run this script. 
 
 ### Executing program
 
