@@ -37,11 +37,11 @@ Download the python file off of this repository and make sure that it is in the 
 
 - The program can be started by typing:
 ```
-python Py2App.py
+python Py2Art.py
 ```
 or
 ```
-python3 Py2App.py
+python3 Py2Art.py
 ```
 ## Help
 
